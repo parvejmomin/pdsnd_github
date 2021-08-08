@@ -5,7 +5,7 @@ Include the date you created this project and README file.
 Date added : 8/8/2021
 
 ### Project Title
-Replace the Project Title
+Stage three of git the Project Title
 
 ### Description
 Describe what your project is about and what it does
